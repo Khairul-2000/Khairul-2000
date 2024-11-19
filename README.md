@@ -1,6 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Khairul</h1>
 <h3 align="center">I love creating with Code</h3>
 
+<img src="https://github.com/user-attachments/assets/515a2f89-6d98-40bd-813a-5dfc42de662f" alt="logo" align="right" width="400"/>
 
 
 
