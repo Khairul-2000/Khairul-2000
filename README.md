@@ -18,6 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thisiskhairul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisiskhairul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khairul-islam-6a0601195/" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="khairul" height="40" width="40"/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
